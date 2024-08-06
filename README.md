@@ -18,5 +18,5 @@ React Text Editor is a simple and intuitive text editor built with React. It pro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-text-editor.git
+   git clone git@github.com:DeepakDas2d/utils-text-editor-react-app.git
 
